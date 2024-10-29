@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Barewar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-1611&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-1611" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Developement,DSA,System Design**
 
-- 💬 Ask me about **React, Java, Java-script, Node, mySql,PHP, Mongo-DB**
+- 💬 Ask me about **React, Java, Java-script, Node, mySql, Mongo-DB**
 
 - 📫 How to reach me **sdcbbarewar15@gmail.com**
 
